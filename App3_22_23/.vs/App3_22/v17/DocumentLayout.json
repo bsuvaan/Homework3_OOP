@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ipsuv\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C##\\OOP\\3Homework\\App3_22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56E97A9E-CA35-4F19-BCAD-5A782C8F1AEC}|App3_22.vcxproj|C:\\Users\\ipsuv\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C##\\OOP\\3Homework\\App3_22\\App3_22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56E97A9E-CA35-4F19-BCAD-5A782C8F1AEC}|App3_22.vcxproj|solutionrelative:App3_22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App3_22.cpp",
+              "DocumentMoniker": "C:\\Users\\ipsuv\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C##\\OOP\\3Homework\\App3_22\\App3_22.cpp",
+              "RelativeDocumentMoniker": "App3_22.cpp",
+              "ToolTip": "C:\\Users\\ipsuv\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C##\\OOP\\3Homework\\App3_22\\App3_22.cpp",
+              "RelativeToolTip": "App3_22.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T09:03:32.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

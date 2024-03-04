@@ -1,0 +1,4 @@
+﻿  3_23App.cpp
+C:\Users\ipsuv\OneDrive\Документы\C(32,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ipsuv\OneDrive\Документы\C(36,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  3_23App.vcxproj -> C:\Users\ipsuv\OneDrive\Документы\C##\OOP\3Homework\3_23App\x64\Debug\3_23App.exe

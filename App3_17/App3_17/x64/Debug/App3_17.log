@@ -1,0 +1,4 @@
+﻿  App3_17.cpp
+C:\Users\ipsuv\OneDrive\Документы\C(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ipsuv\OneDrive\Документы\C(25,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  App3_17.vcxproj -> C:\Users\ipsuv\OneDrive\Документы\C##\OOP\3Homework\App3_17\x64\Debug\App3_17.exe

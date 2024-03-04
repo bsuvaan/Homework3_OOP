@@ -1,0 +1,4 @@
+﻿  App_3.28.cpp
+C:\Users\ipsuv\OneDrive\Документы\C(26,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ipsuv\OneDrive\Документы\C(14,1): warning C4715: MinFromSet: значение возвращается не при всех путях выполнения
+  App_3.28.vcxproj -> C:\Users\ipsuv\OneDrive\Документы\C##\OOP\3Homework\App_3.28\x64\Debug\App_3.28.exe
